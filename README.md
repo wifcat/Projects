@@ -11,10 +11,12 @@ AI CHATBOT USING OPENROUTER.AI
 - open your CLI (Shell or cmd) and must be on the same directory with the "chat" folder
 - type command > npm init -y
                  npm install express axios body-parser
+                 npm install dotenv
 
 :OPENROUTER TUTORIAL:
 - Login/create your account and get the API key
 - paste it in the .env file
 - and type a new command again > node server.js
 - copy the localhost output and paste it in browser
+
 
