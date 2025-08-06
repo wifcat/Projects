@@ -5,7 +5,7 @@ AI CHATBOT USING OPENROUTER.AI
 - API key from open source ai apps, ex: https://openrouter.ai
 
 :NODE TUTORIAL (Since its already has node_module, instead paste the API key in .env:
-- Download and install Node.js from > nodejs.org
+- Download and install Node.js from > https://nodejs.org
 - follow its instructions to install
 - Download the chat.zip archive from this rep and extract it to whatever dir
 - open your CLI (Shell or cmd) and must be on the same directory with the "chat" folder
@@ -17,3 +17,4 @@ AI CHATBOT USING OPENROUTER.AI
 - paste it in the .env file
 - and type a new command again > node server.js
 - copy the localhost output and paste it in browser
+
